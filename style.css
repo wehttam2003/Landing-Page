@@ -139,6 +139,15 @@ button{
 
 .footer{
     background-color: #1f2937;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.footer p {
+    color: white;
 }
 
 .images{
